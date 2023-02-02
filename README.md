@@ -15,5 +15,5 @@ Due to our interest in data analysis and machine learning as well as a common de
 The data is originally from a <a href="https://www.cdc.gov/brfss/annual_data/annual_2020.html">2020 CDC telephone survey</a> on the health status of U.S. residents. However, we accessed and utilized an organized and cleaned version of the dataset via <a href="https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease">Kaggle</a>. The Kaggle dataset contains preselected variables having direct or indirect effects on heart disease with values of categorical values convereted to text type and missing records removed.
 
 ## Technology
-This project was built with Python using Google Colaboratory and various libraries such as MatplotLib, Pandas, Numpy, and Scikit-Learn.
+This project was built with Python using Google Colaboratory and various libraries such as MatplotLib, Pandas, NumPy, and Scikit-Learn.
 
