@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Predicting Heart Disease</h2>
+<h1 align="center">Predicting Heart Disease</h1>
 </div>
 <p align="center">
 <a href="https://colab.research.google.com/drive/1u_iQfk3NwO_f5LRUTPkHwIKmtBZG4S3c?usp=sharing">Google Colab</a> | 
